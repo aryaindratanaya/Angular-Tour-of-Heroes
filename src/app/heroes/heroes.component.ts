@@ -9,4 +9,6 @@ export class HeroesComponent implements OnInit {
   constructor() {}
 
   ngOnInit(): void {}
+
+  hero = 'Windstorm';
 }
